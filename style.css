@@ -1,0 +1,15 @@
+h1{
+    font-size: 80px;
+    font-weight: 3000px;
+    font-family: Impact;
+}
+.sss{
+    background-color: blue;
+    color: white;
+    font-size: 12px;
+    padding: 28px  90px;
+}
+.sss:hover{
+    color: beige;
+    background-color: green;
+}
